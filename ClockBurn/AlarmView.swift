@@ -23,7 +23,7 @@ struct AlarmView: View {
                         }
                 }
             }
-            .navigationTitle("闹钟")
+            .navigationTitle("鬧鐘")
             .toolbar {
                 ToolbarItem(placement: .navigationBarTrailing) {
                     HStack {
